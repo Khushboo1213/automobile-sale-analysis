@@ -1,0 +1,1 @@
+Notebook generation unavailable. Run src/analyze_sales.py instead.
